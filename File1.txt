@@ -4,3 +4,6 @@ git cretae avutadi
 to check that
 properties lo hiden--ok--
 hidden uncheck--ok
+
+
+iam adding new lines to check in central
