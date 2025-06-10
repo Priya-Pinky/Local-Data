@@ -1,0 +1,6 @@
+GIT inti means it create the folder as a repository in folder of local and central 
+
+git cretae avutadi
+to check that
+properties lo hiden--ok--
+hidden uncheck--ok
